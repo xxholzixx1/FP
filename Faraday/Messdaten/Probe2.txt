@@ -1,0 +1,8 @@
+# Vermessung des Faraday-Rotationswinkels
+# Probe 2: n-dotiertes GaAs
+# N = 1.2e18 / (cm)^3
+# L = 1.36 mm
+# Wellenlänge des Filters lambda
+# Winkel vor Umpolung t1 und nach t2
+# Winkelminuten tim
+# lambda/nm t1/° t1m/'' t2/° t2m/''

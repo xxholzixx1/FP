@@ -1,0 +1,7 @@
+# Vermessung des Faraday-Rotationswinkels
+# Probe 3: hochreines GaAs
+# L = 5.11 mm
+# Wellenlänge des Filters lambda
+# Winkel vor Umpolung t1 und nach t2
+# Winkelminuten tim
+# lambda/nm t1/° t1m/'' t2/° t2m/''
