@@ -33,7 +33,7 @@ a = params[0]
 b = params[1]
 print(a,b)
 #Tabelle
-np.savetxt('BFeldtab.txt',np.column_stack([B,z]), delimiter=' & ',newline= r'\\'+'\n' )
+#np.savetxt('BFeldtab.txt',np.column_stack([B,z]), delimiter=' & ',newline= r'\\'+'\n' )
 
 plt.plot(z, B,'ro', label='Mag. Feldstärke')
 plt.plot(x, fitf(x,noms(a),noms(b)), 'b-', label='Parabel')
@@ -44,3 +44,4 @@ plt.grid()
 plt.legend(loc='best')
 plt.show()
 plt.savefig('BFeld.pdf')
+#.
