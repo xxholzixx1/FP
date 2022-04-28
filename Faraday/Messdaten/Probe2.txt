@@ -1,8 +1,16 @@
 # Vermessung des Faraday-Rotationswinkels
-# Probe 2: n-dotiertes GaAs
-# N = 1.2e18 / (cm)^3
-# L = 1.36 mm
-# Wellenlänge des Filters lambda
+# Probe 1: n-dotiertes GaAs
+# N = 2.8e18 / (cm)^3
+# L = 1.296 mm
 # Winkel vor Umpolung t1 und nach t2
 # Winkelminuten tim
-# lambda/nm t1/° t1m/'' t2/° t2m/''
+# t1/° t1m/'' t2/° t2m/''
+
+329 32 340 00
+329 39 339 51
+330 21 338 32
+330 50 340 25
+334 31 345 03
+335 05 346 40
+357 56 011 00
+340 00 354 11

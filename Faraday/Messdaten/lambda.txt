@@ -1,0 +1,11 @@
+# Wellenlänge des Filters lambda
+#lambda in nm
+
+1060
+1290
+1450
+1720
+1960
+2156
+2340
+2650
